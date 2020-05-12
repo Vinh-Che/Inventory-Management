@@ -1,0 +1,182 @@
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\App.g.i.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\App.g.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\App.xaml
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\AddAdmin.xaml
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\AppRoot.xaml
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CategoryPage.xaml
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CustomerPage.xaml
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Login.xaml
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\MainPage.xaml
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\Order.xaml
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CustomerOrder.xaml
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\UserPage.xaml
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\App.xbf
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\AddAdmin.xbf
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\AppRoot.xbf
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CategoryPage.xbf
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CustomerPage.xbf
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Login.xbf
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\MainPage.xbf
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\Order.xbf
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CustomerOrder.xbf
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\UserPage.xbf
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\bin\x64\Debug\App.xbf
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\bin\x64\Debug\Views\AddAdmin.xbf
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\bin\x64\Debug\AppRoot.xbf
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\bin\x64\Debug\Views\CategoryPage.xbf
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\bin\x64\Debug\Views\CustomerPage.xbf
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\bin\x64\Debug\Login.xbf
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\bin\x64\Debug\MainPage.xbf
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\bin\x64\Debug\Views\Order.xbf
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\bin\x64\Debug\Views\CustomerOrder.xbf
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\bin\x64\Debug\Views\UserPage.xbf
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\bin\x64\Debug\InventoryManagement.xr.xml
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\bin\x64\Debug\InventoryManagement.exe
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\bin\x64\Debug\InventoryManagement.pdb
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\bin\x64\Debug\resources.pri
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\bin\x64\Debug\AppxManifest.xml
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\bin\x64\Debug\Core\InventoryManagement.exe
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\bin\x64\Debug\InventoryManagement.build.appxrecipe
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\bin\x64\Debug\System.Runtime.dll
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\InventoryManagement.csprojAssemblyReference.cache
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\AddAdmin.g.i.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\AddAdmin.g.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\AppRoot.g.i.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\AppRoot.g.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CategoryPage.g.i.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CategoryPage.g.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CustomerPage.g.i.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CustomerPage.g.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Login.g.i.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Login.g.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\MainPage.g.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\Order.g.i.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\Order.g.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CustomerOrder.g.i.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CustomerOrder.g.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\UserPage.g.i.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\UserPage.g.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\InventoryManagement.csproj.CopyComplete
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\InventoryManagement.exe
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\InventoryManagement.pdb
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\priconfig.xml
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\resources.resfiles
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\pri.resfiles
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\qualifiers.txt
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885274160000000.json
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\bin\x64\Debug\Views\ProductOperation.xbf
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\ProductOperation.g.i.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\ProductOperation.g.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\ProductOperation.xaml
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\ProductOperation.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\bin\x64\Debug\App.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\bin\x64\Debug\Views\AddAdmin.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\bin\x64\Debug\AppRoot.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\bin\x64\Debug\Views\CategoryPage.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\bin\x64\Debug\Views\CustomerPage.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\bin\x64\Debug\Login.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\bin\x64\Debug\MainPage.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\bin\x64\Debug\Views\Order.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\bin\x64\Debug\Views\CustomerOrder.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\bin\x64\Debug\Views\ProductOperation.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\bin\x64\Debug\Views\UserPage.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\bin\x64\Debug\InventoryManagement.xr.xml
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\bin\x64\Debug\InventoryManagement.exe
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\bin\x64\Debug\InventoryManagement.pdb
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\bin\x64\Debug\resources.pri
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\bin\x64\Debug\AppxManifest.xml
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\bin\x64\Debug\Core\InventoryManagement.exe
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\bin\x64\Debug\InventoryManagement.build.appxrecipe
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\bin\x64\Debug\System.Runtime.dll
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\InventoryManagement.csprojAssemblyReference.cache
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\App.g.i.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\App.g.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\AddAdmin.g.i.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\AddAdmin.g.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\AppRoot.g.i.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\AppRoot.g.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CategoryPage.g.i.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CategoryPage.g.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CustomerPage.g.i.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CustomerPage.g.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Login.g.i.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Login.g.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\MainPage.g.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\Order.g.i.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\Order.g.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CustomerOrder.g.i.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CustomerOrder.g.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\ProductOperation.g.i.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\ProductOperation.g.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\UserPage.g.i.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\UserPage.g.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\App.xaml
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\AddAdmin.xaml
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\AppRoot.xaml
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CategoryPage.xaml
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CustomerPage.xaml
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Login.xaml
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\MainPage.xaml
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\Order.xaml
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CustomerOrder.xaml
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\ProductOperation.xaml
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\UserPage.xaml
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\App.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\AddAdmin.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\AppRoot.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CategoryPage.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CustomerPage.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Login.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\MainPage.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\Order.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\CustomerOrder.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\ProductOperation.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Views\UserPage.xbf
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\InventoryManagement.csproj.CopyComplete
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\InventoryManagement.exe
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\InventoryManagement.pdb
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\priconfig.xml
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\resources.resfiles
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\pri.resfiles
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\qualifiers.txt
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885274160000000.json

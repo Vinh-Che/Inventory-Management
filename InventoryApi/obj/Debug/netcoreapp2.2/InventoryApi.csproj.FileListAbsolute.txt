@@ -1,0 +1,47 @@
+E:\Fiverr 2020\April\UWP Vinh\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\InventoryApi.deps.json
+E:\Fiverr 2020\April\UWP Vinh\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\InventoryApi.runtimeconfig.json
+E:\Fiverr 2020\April\UWP Vinh\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\InventoryApi.runtimeconfig.dev.json
+E:\Fiverr 2020\April\UWP Vinh\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\InventoryApi.dll
+E:\Fiverr 2020\April\UWP Vinh\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\InventoryApi.pdb
+E:\Fiverr 2020\April\UWP Vinh\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.csproj.CoreCompileInputs.cache
+E:\Fiverr 2020\April\UWP Vinh\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.RazorAssemblyInfo.cache
+E:\Fiverr 2020\April\UWP Vinh\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.RazorAssemblyInfo.cs
+E:\Fiverr 2020\April\UWP Vinh\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.AssemblyInfoInputs.cache
+E:\Fiverr 2020\April\UWP Vinh\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.AssemblyInfo.cs
+E:\Fiverr 2020\April\UWP Vinh\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.RazorTargetAssemblyInfo.cache
+E:\Fiverr 2020\April\UWP Vinh\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.dll
+E:\Fiverr 2020\April\UWP Vinh\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.pdb
+E:\Fiverr 2020\April\UWP Vinh\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.csprojAssemblyReference.cache
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\appsettings.Production.json
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\InventoryApi.deps.json
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\InventoryApi.runtimeconfig.json
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\InventoryApi.runtimeconfig.dev.json
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\InventoryApi.dll
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\InventoryApi.pdb
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.RazorAssemblyInfo.cache
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.RazorAssemblyInfo.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.AssemblyInfoInputs.cache
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.AssemblyInfo.cs
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.RazorTargetAssemblyInfo.cache
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.dll
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.pdb
+C:\Users\Vinh\Desktop\dotNet\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.csprojAssemblyReference.cache
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\appsettings.Production.json
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\InventoryApi.deps.json
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\InventoryApi.runtimeconfig.json
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\InventoryApi.runtimeconfig.dev.json
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\InventoryApi.dll
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryApi\bin\Debug\netcoreapp2.2\InventoryApi.pdb
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.RazorAssemblyInfo.cache
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.RazorAssemblyInfo.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.AssemblyInfoInputs.cache
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.AssemblyInfo.cs
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.RazorTargetAssemblyInfo.cache
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.dll
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryApi\obj\Debug\netcoreapp2.2\InventoryApi.pdb

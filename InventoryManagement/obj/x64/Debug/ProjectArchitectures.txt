@@ -1,0 +1,1 @@
+C:\Users\Vinh\Desktop\DOTNET DELIVERY\InventoryManagement\InventoryManagement\InventoryManagement.csproj;x64

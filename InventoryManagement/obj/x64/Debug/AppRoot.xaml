@@ -1,0 +1,47 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:InventoryManagement"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Custom="using:Microsoft.UI.Xaml.Controls"
+    x:Class="InventoryManagement.AppRoot"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Width="1608.5" >
+
+    <Grid>
+
+        <NavigationView x:ConnectionId='2' x:Name="NavView"   PaneDisplayMode="Top"                                            >
+
+            <NavigationView.MenuItems  >
+                <NavigationViewItem
+                    Icon="Page2" Content="Category"
+                    Background="LightBlue" Tag="category"  Margin="0,0,0,0"   />
+                <NavigationViewItemSeparator/>
+                <NavigationViewItem
+                  Background="LightBlue"   Icon="Copy" Content="Product"
+                    Tag="product"   Margin="0,0,0,0"  />
+                <NavigationViewItemSeparator/>
+                <NavigationViewItem 
+                 Background="LightBlue"   Icon="AddFriend" Content="Customer"
+                    Tag="customer"   Margin="0,0,0,0"  />
+                <NavigationViewItemSeparator/>
+                <NavigationViewItem 
+                 Background="LightBlue"   Icon="Street" Content="Order"
+                    Tag="order"   Margin="0,0,0,0"  />
+                <NavigationViewItemSeparator/>
+                <NavigationViewItem 
+                 Background="LightBlue"   Icon="Contact" Content="User"
+                    Tag="user"   Margin="0,0,0,0"  />
+            </NavigationView.MenuItems>
+        </NavigationView>
+        <Frame x:ConnectionId='3' x:Name="ContentFrame" Margin="7,47,202,-7" Height="680" Width="1400" ScrollViewer.VerticalScrollMode="Enabled" >
+            <Frame.ContentTransitions>
+                <TransitionCollection>
+                    <NavigationThemeTransition/>
+                </TransitionCollection>
+            </Frame.ContentTransitions>
+        </Frame>
+    </Grid>
+</Page>
+
